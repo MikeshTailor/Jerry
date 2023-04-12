@@ -1,10 +1,10 @@
 FROM ubuntu:22.04
-MAINTAINER Mikesh Tailor
+MAINTAINER Jerry Ortaga
 RUN apt-get update
 RUN apt-get -y upgrade
-RUN echo 'Going to install Java...'
+#RUN echo 'Going to install Java...'
 # -y signifies yes option during an install of package
-RUN apt-get install -y default-jre
+#RUN apt-get install -y default-jre
 RUN echo 'ready to install ssh server..'
 RUN apt-get install -y openssh-server
 #cmd used to allow for ssh connections on client

@@ -7,11 +7,11 @@
 <body>
 
 <div class="topnav" id="myTopnav">
-  <a href="http://cseemyweb.essex.ac.uk/~mt16035/ce206/Home.html">Home</a>
-  <a href="http://cseemyweb.essex.ac.uk/~mt16035/ce206/Awards.html">Awards</a>
-  <a href="http://cseemyweb.essex.ac.uk/~mt16035/ce206/Research.html">Research</a>
-  <a href="http://cseemyweb.essex.ac.uk/~mt16035/ce206/Games.html">Games</a>
-  <a href=" http://cseemyweb.essex.ac.uk/~mt16035/ce206/send_form_email.php" class="active">Contact</a>
+  <a href="index.html">Home</a>
+  <a href="Awards.html">Awards</a>
+  <a href="Research.html">Research</a>
+  <a href="Games.html">Games</a>
+  <a href="send_form_email.php" class="active">Contact</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
   </a>
 </div>
